@@ -2,21 +2,28 @@
 
 ### About Me
 
-I am a Computer Programmer, with a broad range of interests: teaching, algorithms, computer security, web programming and compiler and language design. I have been coding for about 10 years total (mostly batch scripts and minecraft mods), with about of three of those being practically useful. I live in Sydney, Australia. 
+I am a Computer Programmer, with a broad range of interests: teaching, algorithms, computer security, web programming and compiler and language design. I have been coding since 2013. I live in Sydney, Australia. 
+
+### Experience
+ - Computer Science Degree (UNSW): Started 2018
+ - Graduate Data Analyst (Kinesis): Started 2018
+ - Ran SGS Computer Club: 2013-2016
+ - AIO Participant: 2014-2017
 
 ### Langauges
 
-- I write fluently in Python
-- I write competently in:
-  - C++ 
-  - JS (and HTML/CSS)
-  - VB.NET
-- I have written in: 
-  - Befunge-83 
-  - C
-  - Haskell 
-  - Java 
+- Python (main)
+- C++ 
+- C
+- JS (and HTML/CSS)
+- VB.NET
+
+With some exposure to:
+- Befunge-83 
+- Haskell 
+- Java 
 
 ### Contact Me
 
 - Twitter: @tfpk_
+- Github: @tfpk
